@@ -1,0 +1,9 @@
+[submodule "nusapay-sc/lib/forge-std"]
+	path = nusapay-sc/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "nusapay-sc/lib/openzeppelin-contracts"]
+	path = nusapay-sc/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "nusapay-sc/lib/hyperlane-monorepo"]
+	path = nusapay-sc/lib/hyperlane-monorepo
+	url = https://github.com/hyperlane-xyz/hyperlane-monorepo
